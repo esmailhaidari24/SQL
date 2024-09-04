@@ -11,6 +11,9 @@ phpMyAdmin et DBeaver
 * Fonctions SQL Couvertes :
 
 SELECT : Requête pour extraire des données.
+
 INSERT : Requête pour ajouter de nouvelles données.
+
 UPDATE : Requête pour modifier des données existantes.
+
 DELETE : Requête pour supprimer des données.
