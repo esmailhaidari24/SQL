@@ -17,3 +17,5 @@ phpMyAdmin et DBeaver
 * UPDATE : Requête pour modifier des données existantes.
 
 * DELETE : Requête pour supprimer des données.
+
+![](https://github.com/esmailhaidari24/SQL/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-16%20a%CC%80%2000.22.36.png)
